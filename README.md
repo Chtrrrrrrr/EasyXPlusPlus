@@ -1,5 +1,6 @@
-## EasyX++
+# EasyX++
 ---
+## 简介
 EasyX++是一个EasyX的扩展库，并且提供了很多方便快捷的功能。  
 想要使用EasyX++，你需要先下载并学习[EasyX](https://easyx.cn/)  
 ---
