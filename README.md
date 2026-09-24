@@ -1,7 +1,5 @@
 # EasyX++
 
-## 简介
-
 EasyX++是一个[EasyX](https://easyx.cn/)的扩展库，并且提供了很多方便快捷的功能。    
 
 ---
